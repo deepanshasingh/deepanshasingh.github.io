@@ -270,6 +270,7 @@ layout: page
 Apart from my first CS research experience in high school, all research has been in ML.
 
 <br>
+<br>
 
 <strong>Received <u>"2023-2024 Physical Sciences Dean's Undergraduate Award for Excellence"</u> at UC San Diego</strong>
 <li>Awarded for contributions to research, nominated by thesis advisor. </li>

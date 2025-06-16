@@ -1,8 +1,8 @@
 ---
 title: "Research"
 collection: research
-permalink:  /research
-layout: default  
+permalink:  /research/
+layout: page  
 ---
 
 <!-- <!doctype html> -->

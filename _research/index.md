@@ -1,6 +1,11 @@
+---
+title: "Research"
+collection: research
+permalink:  /research
+layout: default  
+---
 
-
-<!doctype html>
+<!-- <!doctype html> -->
 <html lang="en" class="no-js">
   <head>
     
@@ -548,5 +553,5 @@ Apart from my first CS research experience in high school, all research has been
 
 
   </body>
-</html>
+<!-- </html> -->
 

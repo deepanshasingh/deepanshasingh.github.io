@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-<!-- <!doctype html> -->
+<!doctype html>
 <html lang="en" class="no-js">
   <head>
     
@@ -36,7 +36,7 @@ layout: page
 
 
 
-  <link rel="canonical" href="http://localhost:4000/teaching-talks-more/">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/teaching-talks-more/">
 
 
 
@@ -56,7 +56,7 @@ layout: page
       "@context" : "http://schema.org",
       "@type" : "Person",
       "name" : "Deepansha Singh",
-      "url" : "http://localhost:4000",
+      "url" : "{{ site.url }}{{ site.baseurl }}",
       "sameAs" : null
     }
   </script>
@@ -75,7 +75,7 @@ layout: page
 
 
 
-  <meta property="og:url" content="http://localhost:4000/teaching-talks-more/">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/teaching-talks-more/">
 
 
 
@@ -83,7 +83,7 @@ layout: page
 
 <!-- end Open Graph protocol -->
 
-<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Deepansha Singh Feed">
+<link href="{{ site.url }}{{ site.baseurl }}/feed.xml" type="application/atom+xml" rel="alternate" title="Deepansha Singh Feed">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
 <!-- http://t.co/dKP3o1e -->
@@ -96,7 +96,7 @@ layout: page
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
     
@@ -104,14 +104,14 @@ layout: page
 <!-- start custom head snippets -->
 
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
-<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:4000/images/apple-touch-icon-180x180.png"/>
-<link rel="icon" type="image/svg+xml" href="http://localhost:4000/images/favicon.svg"/>
-<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-32x32.png" sizes="32x32"/>
-<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-192x192.png" sizes="192x192"/>
-<link rel="manifest" href="http://localhost:4000/images/manifest.json"/>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/images/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/svg+xml" href="{{ site.url }}{{ site.baseurl }}/images/favicon.svg"/>
+<link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/images/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/images/favicon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-<link rel="stylesheet" href="http://localhost:4000/assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/academicons.css"/>
 
 
 <!-- Support for MatJax -->
@@ -135,17 +135,17 @@ layout: page
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="http://localhost:4000/">Deepansha Singh</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ site.url }}{{ site.baseurl }}/">Deepansha Singh</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
+            <li class="masthead__menu-item"><a href="{{ site.url }}{{ site.baseurl }}/publications/">Publications</a></li>
           
-            <li class="masthead__menu-item"><a href="http://localhost:4000/research/">Research</a></li>
+            <li class="masthead__menu-item"><a href="{{ site.url }}{{ site.baseurl }}/research/">Research</a></li>
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/industry/">Industry</a></li>
+            <li class="masthead__menu-item"><a href="{{ site.url }}{{ site.baseurl }}/industry/">Industry</a></li>
                     
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/teaching-talks-more/">Teaching, Talks, & More</a></li>
+            <li class="masthead__menu-item"><a href="{{ site.url }}{{ site.baseurl }}/teaching-talks-more/">Teaching, Talks, & More</a></li>
           
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
@@ -174,7 +174,7 @@ layout: page
 
   <div class="author__avatar">
     
-    	<img src="http://localhost:4000/images/profile.png" class="author__avatar" alt="Deepansha">
+    	<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" class="author__avatar" alt="Deepansha">
     
   </div>
 
@@ -336,7 +336,7 @@ layout: page
     
     
     
-    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>
@@ -350,7 +350,7 @@ layout: page
       </footer>
     </div> -->
 
-    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.min.js"></script>
 
 
 

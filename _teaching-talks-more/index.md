@@ -1,6 +1,12 @@
+---
+title: "Teaching-Talks-And-More"
+collection: teaching-talks-more
+permalink:  /teaching-talks-more/
+layout: page  
+---
 
 
-<!doctype html>
+<!-- <!doctype html> -->
 <html lang="en" class="no-js">
   <head>
     
@@ -309,8 +315,8 @@
 
 
 
-  </div>
-</div>
+  <!-- </div>
+</div> -->
 
 
     <!-- <div class="page__footer">
@@ -353,6 +359,6 @@
 
 
 
-  </body>
-</html>
+  <!-- </body>
+</html> -->
 

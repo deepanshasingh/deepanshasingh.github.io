@@ -1,6 +1,11 @@
+---
+title: "Industry"
+collection: industry
+permalink:  /industry/
+layout: page  
+---
 
-
-<!doctype html>
+<!-- <!doctype html> -->
 <html lang="en" class="no-js">
   <head>
     
@@ -417,8 +422,8 @@ Below are my past experiences.
 
 
 
-  </div>
-</div>
+  <!-- </div>
+</div> -->
 
 
     <!-- <div class="page__footer">
@@ -461,6 +466,6 @@ Below are my past experiences.
 
 
 
-  </body>
-</html>
+  <!-- </body> -->
+<!-- </html> -->
 

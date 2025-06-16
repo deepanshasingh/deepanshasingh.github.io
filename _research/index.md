@@ -121,7 +121,7 @@ layout: page
 
   </head>
 
-  <body>
+  <!-- <body> -->
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -508,8 +508,8 @@ Apart from my first CS research experience in high school, all research has been
 
 
 
-  </div>
-</div>
+  <!-- </div> -->
+<!-- </div> -->
 
 
     <!-- <div class="page__footer">
@@ -550,8 +550,8 @@ Apart from my first CS research experience in high school, all research has been
 
 
 
+<!-- 
 
-
-  </body>
+  </body> -->
 <!-- </html> -->
 

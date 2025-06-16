@@ -268,7 +268,9 @@ layout: page
 <br>Throughout my research journey, I have faced and surmounted countless challenges in research. Research has instilled a deep inner sense of self-belief that I can achieve solving arduous open-ended problems, helping cultivate extreme grit to continue pushing through and never give up.
     
 Apart from my first CS research experience in high school, all research has been in ML.
-<!-- <strong><u>Keywords</u>:</strong> Machine Learning, Deep Learning, Causal Inference, Probabilstic graphical models, LM Alignment, diffusion language models, Transfer learning, Optimization, ML Interpretabilty, Reasoning, NLP, Statistics, Probability, Algorithms, Applied ML -->
+
+<strong>Received <u>"2023-2024 Physical Sciences Dean's Undergraduate Award for Excellence"</u> at UC San Diego</strong>
+<li>Awarded for contributions to research, nominated by thesis advisor. </li>
 </div>
 
 
@@ -378,7 +380,6 @@ Apart from my first CS research experience in high school, all research has been
             <li>Showcasing that for certain edge case from the paper (https://arxiv.org/pdf/2210.14199) the optimization does not seem to generalize well. </li>
             <li>Implemented code for adding noise/perturbation to clean data to test with both clean and data containing spurious features.</li>
             <li>Implemented code for the experiment runs with ResNet and other architectures on MNIST and CIFAR data.</li>
-            <li></li>
         </ul>
     </p>
 </p>

@@ -277,24 +277,17 @@ Below are my past experiences.
 
 
 
+
 <div class="list__item" style="font-size: 14px; line-height: 1.3; margin-top: 0; margin-bottom: 0;">
 
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
-      
+    
       Google SWE Intern
 
-      
     </h2>
-    
-    
-
-        
-          <p> <i>Los Angeles, CA</i> </p>
-        
-
     
     <p class="archive__item-excerpt" itemprop="description"><p>
         <ul> 
@@ -306,7 +299,6 @@ Below are my past experiences.
             <li>Exceeded expectations throughout the internship.</li>
         </ul>
     </p>
-
 </p>
     
 
@@ -315,36 +307,29 @@ Below are my past experiences.
 
 
 
-  
+
+
+
 <div class="list__item" style="font-size: 14px; line-height: 1.3; margin-top: 0; margin-bottom: 0;">
 
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
-      
+    
       Google SWE Intern
 
-      
     </h2>
-    
-    
-
-        
-          <p> <i>Sunnyvale, CA</i> </p>
-        
-
     
     <p class="archive__item-excerpt" itemprop="description"><p>
         <ul> 
-          <li>Implemented new funcitonality in a niche, limited-documentation UI framework that no one else implemented across the entire company.</li>
+           <li>Implemented new funcitonality in a niche, limited-documentation UI framework that no one else implemented across the entire company.</li>
           <li>Worked with a wide array of technologies - Kotlin, Java, Python, HTML/CSS, Angular, Typescript, various Google-internal tools/frameworks</li>
           <li>Worked on original project scope and an additional extension project.
           <li> Submitted 6K+ lines of code </li>
           <li>Exceeded expectations throughout the internship.</li>
         </ul>
     </p>
-
 </p>
     
 
@@ -353,25 +338,19 @@ Below are my past experiences.
 
 
 
-  
+
+
+
 <div class="list__item" style="font-size: 14px; line-height: 1.3; margin-top: 0; margin-bottom: 0;">
 
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
 
     <h2 class="archive__item-title" itemprop="headline">
-      
+    
       Google STEP Intern
 
-      
     </h2>
-    
-    
-
-        
-          <p> <i>New York, NY</i> </p>
-        
-
     
     <p class="archive__item-excerpt" itemprop="description"><p>
         <ul> 
@@ -380,50 +359,11 @@ Below are my past experiences.
           <li>Full-stack project: worked with frontend and backend API code. </li>
         </ul>
     </p>
-
 </p>
     
 
   </article>
 </div>
-
-
-<!-- <div class="list__item" style="font-size: 14px; line-height: 1.3; margin-top: 0; margin-bottom: 0;">
-
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-      CogniFrame
-
-      
-    </h2>
-    
-    
-
-        
-          <p> <i>New York, NY</i> </p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p>
-        <ul> 
-          <li>Conducted a thorough literature review of the ongoing quantum computing and quantum machine learning trends for the financial sector, specifically. </li>
-          <li>Chose a particular application and attempted coding up some implementation with support of mentor guidance. </li>
-        </ul>
-    </p>
-
-</p>
-    
-
-  </article>
-</div> -->
-
-
-
-  <!-- </div>
-</div> -->
 
 
     <!-- <div class="page__footer">
@@ -451,15 +391,13 @@ Below are my past experiences.
 
 <div class="page__footer-copyright">
   &copy; 2025 Deepansha Singh, Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated 2025-06-13
+  Site last updated 2025-06-14
 </div>
 
       </footer>
     </div> -->
 
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.min.js"></script>
-
-
 
 
 

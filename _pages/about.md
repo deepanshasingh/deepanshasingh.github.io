@@ -41,7 +41,7 @@ redirect_from:
 
 
 
-I am a Googler (SWE) on Google Ads. 
+I am a Googler (SWE).
 
 I have a hybrid background of industry and research.
 

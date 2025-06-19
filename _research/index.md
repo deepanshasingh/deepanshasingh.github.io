@@ -480,8 +480,8 @@ Apart from my first CS research experience in high school, all research has been
         <ul> 
             <li>Ramping up on key federated learning concepts and gradient-free phyiscs approach behind such algorithms. </li>
             <li>Implementing in Torch code the overall gradient-free constraint-based optimization algorithm that professor had developed in pseudocode. Debugging, generating, and analyzing results on a few datasets.</li>
-            <li>Repeating the same thing for "federated consensus based optimization" algorithm developed by professor's lab as well. </li>
             <li>Generating key visualizations to depict the reached consesus point across iterations of experiment.</li>
+            <li>Contributed code to parallelize heavy computations in a repo for professor's lab.</li>
         </ul>
     </p>
 </p>
